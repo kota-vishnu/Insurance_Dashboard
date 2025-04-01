@@ -82,15 +82,6 @@ By focusing on claims, premiums, customer segments, and vehicle usage patterns, 
 
 ---
 
-## 👥 Target Audience
-
-- Underwriting & Claims Management Teams
-- Insurance Analytics Professionals
-- Data Analysts & BI Developers
-- Recruiters evaluating Power BI & Data Modeling skills
-
----
-
 ## 🎓 Learning Outcomes
 
 - Mastered handling of **large-scale datasets** within Power BI.

@@ -22,4 +22,15 @@ This project involves the analysis of a real-world Insurance dataset consisting 
 
 The main goal of this project was to design an interactive Power BI Dashboard that delivers actionable insights for stakeholders to assess claim patterns, risk factors, and business KPIs.
 
+# Business Objectives
+* Identify the top-performing and high-risk vehicle categories.
+
+* Analyze customer segmentation and its impact on claims.
+
+* Understand the historical trends of Claims vs Premiums.
+
+* Evaluate the C/P Ratio (Claims to Premium) to assess profitability.
+
+* Provide managers and decision-makers with a data-driven story.
+
 

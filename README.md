@@ -1,8 +1,8 @@
-# 📊 Industrial Insurance Risk Analysis | Power BI Dashboard | 5M+ Records
+# Industrial Insurance Risk Analysis | Power BI Dashboard | 5M+ Records
 
 ---
 
-## ✨ Executive Summary
+## Executive Summary
 
 This project presents a comprehensive risk analysis solution for a real-world industrial insurance dataset, spanning 5 years (2014–2018) with over **5 million records**. Leveraging advanced Power BI techniques, I developed an interactive dashboard enabling stakeholders to uncover risk patterns, optimize claim management, and enhance decision-making. 
 
@@ -10,7 +10,7 @@ By focusing on claims, premiums, customer segments, and vehicle usage patterns, 
 
 ---
 
-## 📋 Table of Contents
+## Table of Contents
 - [Executive Summary](#-executive-summary)
 - [Business Objectives](#-business-objectives)
 - [Dashboard Features](#-dashboard-features)
@@ -23,7 +23,7 @@ By focusing on claims, premiums, customer segments, and vehicle usage patterns, 
 
 ---
 
-## ✅ Business Objectives
+## Business Objectives
 
 - Identify top-performing and high-risk vehicle categories.
 - Segment customers and evaluate their impact on claims.
@@ -33,7 +33,7 @@ By focusing on claims, premiums, customer segments, and vehicle usage patterns, 
 
 ---
 
-## 📊 Dashboard Features
+## Dashboard Features
 
 - Dynamic Year-wise Analysis (2014-2018)
 - Customer Segmentation by Vehicle Type
@@ -52,7 +52,7 @@ By focusing on claims, premiums, customer segments, and vehicle usage patterns, 
 
 ---
 
-## 🟢 Challenges & Solutions
+## Challenges & Solutions
 
 | Challenge | Solution |
 |-----------|----------|
@@ -63,7 +63,7 @@ By focusing on claims, premiums, customer segments, and vehicle usage patterns, 
 
 ---
 
-## 🟡 Technologies Used
+## Technologies Used
 
 - Power BI (Data Modeling, Visualizations)
 - DAX (Advanced Calculations & Performance Tuning)
@@ -73,7 +73,7 @@ By focusing on claims, premiums, customer segments, and vehicle usage patterns, 
 
 ---
 
-## 💡 Key Insights
+## Key Insights
 
 - The **C/P Ratio** peaked at **291%** in certain years, signaling high-risk patterns.
 - Policyholders marked as **Sex 0** exhibited consistently higher claim frequencies.
@@ -82,7 +82,7 @@ By focusing on claims, premiums, customer segments, and vehicle usage patterns, 
 
 ---
 
-## 🎓 Learning Outcomes
+## Learning Outcomes
 
 - Mastered handling of **large-scale datasets** within Power BI.
 - Developed **efficient DAX** formulas under production-like constraints.
@@ -91,19 +91,19 @@ By focusing on claims, premiums, customer segments, and vehicle usage patterns, 
 
 ---
 
-## 🗂 Dataset Source
+## Dataset Source
 
 [Insurance Dataset - Mendeley Data](https://data.mendeley.com/datasets/34nfrk36dt/1)
 
 ---
 
-## 📂 Visualizations
+## Visualizations
 
 Screenshots and visual assets are available in the [`/Visualizations`](./Visualizations) directory.
 
 ---
 
-## ✨ Notes
+## Notes
 
 This project simulates a real-world BI scenario involving complex datasets, strict performance requirements, and actionable deliverables aimed at stakeholders.
 
